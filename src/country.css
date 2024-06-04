@@ -1,0 +1,16 @@
+.country{
+    padding: 10px;
+    border: 2px solid skyblue;
+    margin: 8px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.btn{
+    text-align: center;
+    color: aliceblue;
+    border-radius: 8px;
+    padding: 8px 15px;
+    border: 2px solid skyblue;
+    background-color: transparent;
+}
